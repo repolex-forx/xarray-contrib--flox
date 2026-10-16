@@ -1,0 +1,11 @@
+{
+  "org": "xarray-contrib",
+  "repo": "flox",
+  "versions": [
+    {
+      "commit": "d2857f323a3f5b7c737b34e8cfc09492cc9ef2bf",
+      "tag": "",
+      "parsed_at": "2026-10-16T03:26:30.531779+00:00"
+    }
+  ]
+}
